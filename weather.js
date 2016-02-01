@@ -6,7 +6,7 @@ module.exports = function (city, callback) {
   return new Promise(function (resolve,reject){
       var encoded_city = encodeURIComponent(city);
       var url = 'http://api.openweathermap.org/data/2.5/weather?q='
-      const api_key = '&APPID=a37a0587ff763392377502ca47a7cb09&units=imperial'
+      var api_key;
       if(!encoded_city){
         reject("Unable to fetch weather!");
       } else {
