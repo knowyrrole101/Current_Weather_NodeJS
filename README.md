@@ -2,10 +2,11 @@
 
 ##Tech/APIS used:
 
-*Node JS
-*NPM-Yargs
-*Open Weather API
-*IpINFO API
+
+* Node JS
+* NPM-Yargs
+* Open Weather API
+* IpINFO API
 
 Simple application that accepts one argument from command line city name to retrieve weather data.
 
