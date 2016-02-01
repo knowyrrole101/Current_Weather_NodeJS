@@ -1,6 +1,6 @@
 # Current Weather - NodeJS 
 
-##Features:
+##Api/Packages Used:
 
 
 * Node JS
