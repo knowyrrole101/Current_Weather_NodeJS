@@ -1,6 +1,6 @@
 # Weather Application in NodeJS
 
-##Tech/APIS used:
+##Features:
 
 
 * Node JS
