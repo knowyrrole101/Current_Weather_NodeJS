@@ -1,4 +1,4 @@
-# Weather Application in NodeJS
+# Current Weather - NodeJS 
 
 ##Features:
 
